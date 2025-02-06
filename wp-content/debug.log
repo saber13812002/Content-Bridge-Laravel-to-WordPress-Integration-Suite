@@ -1,0 +1,848 @@
+[04-Feb-2025 14:46:15 UTC] Automatic updates starting...
+[04-Feb-2025 14:46:15 UTC]   Automatic plugin updates starting...
+[04-Feb-2025 14:46:15 UTC]   Automatic plugin updates complete.
+[04-Feb-2025 14:46:16 UTC] Automatic updates complete.
+[04-Feb-2025 15:09:53 UTC] Automatic updates starting...
+[04-Feb-2025 15:09:53 UTC]   Automatic plugin updates starting...
+[04-Feb-2025 15:09:53 UTC]   Automatic plugin updates complete.
+[04-Feb-2025 15:09:53 UTC] Automatic updates complete.
+[05-Feb-2025 18:23:57 UTC] PHP Warning:  wp_version_check(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:24:06 UTC] PHP Warning:  translations_api(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:24:17 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:24:17 UTC] PHP Warning:  translations_api(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:24:30 UTC] PHP Warning:  translations_api(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:24:37 UTC] PHP Warning:  wp_update_themes(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:24:56 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:25:32 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:26:14 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:26:26 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:26:54 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:27:00 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:30:08 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:30:17 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:30:24 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:30:33 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:30:40 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:36:28 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:36:37 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:36:43 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:48:40 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:48:52 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:48:55 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:48:59 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:19 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:21 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:22 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:23 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:30 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:36 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting variable or "$" in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\widgets\program-single-widget.php on line 9
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:49:44 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:49:44 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting variable or "$" in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\widgets\program-single-widget.php on line 9
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:27 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:27 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting variable or "$" in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\widgets\program-single-widget.php on line 9
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:32 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:33 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:34 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:35 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:36 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:51:37 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:52:03 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 52
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 53
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 54
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 55
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 56
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 57
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $post_id in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 58
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $thumbnail in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 61
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $producer in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 63
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $language in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 64
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $persons in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 65
+[05-Feb-2025 18:52:06 UTC] PHP Warning:  Undefined variable $topics in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 66
+[05-Feb-2025 18:52:07 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting variable or "$" in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\widgets\program-single-widget.php on line 9
+[05-Feb-2025 18:52:28 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget/widgets/program-list-widget.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 27
+[05-Feb-2025 18:52:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget/widgets/program-list-widget.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php:27
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): register_elementor_programs_widgets(Object(Elementor\Widgets_Manager))
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(146): do_action('elementor/widge...', Object(Elementor\Widgets_Manager))
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(345): Elementor\Widgets_Manager->init_widgets()
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(368): Elementor\Widgets_Manager->get_widget_types()
+#6 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\document.php(742): Elementor\Widgets_Manager->get_widget_types_config()
+#7 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1070): Elementor\Core\Base\Document->get_initial_config()
+#8 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\common\editor-common-scripts-settings.php(38): Elementor\Controls_Stack->get_config()
+#9 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\v2\editor-v2-loader.php(153): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#10 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\editor.php(364): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\wordpress\wp-includes\script-loader.php(2272): do_action('wp_enqueue_scri...')
+#15 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): wp_enqueue_scripts('')
+#16 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#17 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#18 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3064): do_action('wp_head')
+#19 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\editor-templates\editor-wrapper.php(31): wp_head()
+#20 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\v2\editor-v2-loader.php(203): include('C:\\xampp\\htdocs...')
+#21 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\editor.php(169): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#22 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#23 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#24 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#25 C:\xampp\htdocs\wordpress\wp-admin\admin.php(419): do_action('admin_action_el...')
+#26 C:\xampp\htdocs\wordpress\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#27 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 27
+[05-Feb-2025 18:52:40 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget/widgets/program-list-widget.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 27
+[05-Feb-2025 18:52:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget/widgets/program-list-widget.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php:27
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): register_elementor_programs_widgets(Object(Elementor\Widgets_Manager))
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(146): do_action('elementor/widge...', Object(Elementor\Widgets_Manager))
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(345): Elementor\Widgets_Manager->init_widgets()
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(368): Elementor\Widgets_Manager->get_widget_types()
+#6 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\document.php(742): Elementor\Widgets_Manager->get_widget_types_config()
+#7 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1070): Elementor\Core\Base\Document->get_initial_config()
+#8 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\common\editor-common-scripts-settings.php(38): Elementor\Controls_Stack->get_config()
+#9 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\v2\editor-v2-loader.php(153): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#10 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\editor.php(364): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\wordpress\wp-includes\script-loader.php(2272): do_action('wp_enqueue_scri...')
+#15 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): wp_enqueue_scripts('')
+#16 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#17 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#18 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3064): do_action('wp_head')
+#19 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\editor-templates\editor-wrapper.php(31): wp_head()
+#20 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\v2\editor-v2-loader.php(203): include('C:\\xampp\\htdocs...')
+#21 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\editor.php(169): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#22 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#23 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#24 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#25 C:\xampp\htdocs\wordpress\wp-admin\admin.php(419): do_action('admin_action_el...')
+#26 C:\xampp\htdocs\wordpress\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#27 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 27
+[05-Feb-2025 18:52:57 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:53:25 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:53:32 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:54:04 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:54:10 UTC] PHP Warning:  wp_update_plugins(): یک خطای غیرمنتظره رخ داد. ممکن است مشکل از WordPress.org یا تنظیمات سرویس‌دهنده شما باشد. اگر کماکان این مشکلات ادامه داشت، لطفا سری به <a href="https://fa.wordpress.org/support/forums/">انجمن‌های پشتیبانی</a> بزنید. (وردپرس نتوانست ارتباطی امن با سایت WordPress.org برقرار کند. لطفاً با مدیر سرور خود تماس بگیرید.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6114
+[05-Feb-2025 18:54:28 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget/widgets/program-list-widget.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 27
+[05-Feb-2025 18:54:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget/widgets/program-list-widget.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php:27
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): register_elementor_programs_widgets(Object(Elementor\Widgets_Manager))
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(146): do_action('elementor/widge...', Object(Elementor\Widgets_Manager))
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(345): Elementor\Widgets_Manager->init_widgets()
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\document.php(1172): Elementor\Widgets_Manager->get_widget_types('text-editor')
+#6 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\document.php(1123): Elementor\Core\Base\Document->convert_to_elementor()
+#7 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\container-converter\module.php(138): Elementor\Core\Base\Document->get_elements_data()
+#8 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\container-converter\module.php(105): Elementor\Modules\ContainerConverter\Module->page_contains_sections(Object(Elementor\Core\DocumentTypes\Page))
+#9 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\container-converter\module.php(167): Elementor\Modules\ContainerConverter\Module->add_page_convert_button(Object(Elementor\Core\DocumentTypes\Page))
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Elementor\Modules\ContainerConverter\Module->Elementor\Modules\ContainerConverter\{closure}(Object(Elementor\Core\DocumentTypes\Page))
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\document.php(786): do_action('elementor/docum...', Object(Elementor\Core\DocumentTypes\Page))
+#14 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\document-types\page-base.php(70): Elementor\Core\Base\Document->register_controls()
+#15 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(2427): Elementor\Core\DocumentTypes\PageBase->register_controls()
+#16 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(569): Elementor\Controls_Stack->init_controls()
+#17 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(314): Elementor\Controls_Stack->get_stack()
+#18 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\settings\page\model.php(176): Elementor\Controls_Stack->get_controls()
+#19 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(2427): Elementor\Core\Settings\Page\Model->register_controls()
+#20 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(569): Elementor\Controls_Stack->init_controls()
+#21 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(844): Elementor\Controls_Stack->get_stack()
+#22 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\settings\manager.php(151): Elementor\Controls_Stack->get_tabs_controls()
+#23 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\common\editor-common-scripts-settings.php(26): Elementor\Core\Settings\Manager::get_settings_managers_config()
+#24 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\v2\editor-v2-loader.php(153): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#25 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\editor.php(364): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#26 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#27 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#28 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#29 C:\xampp\htdocs\wordpress\wp-includes\script-loader.php(2272): do_action('wp_enqueue_scri...')
+#30 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): wp_enqueue_scripts('')
+#31 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#32 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#33 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3064): do_action('wp_head')
+#34 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\editor-templates\editor-wrapper.php(31): wp_head()
+#35 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\v2\editor-v2-loader.php(203): include('C:\\xampp\\htdocs...')
+#36 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\editor.php(169): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#37 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#38 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#39 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#40 C:\xampp\htdocs\wordpress\wp-admin\admin.php(419): do_action('admin_action_el...')
+#41 C:\xampp\htdocs\wordpress\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#42 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 27
+[05-Feb-2025 18:54:51 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget/widgets/program-list-widget.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 27
+[05-Feb-2025 18:54:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget/widgets/program-list-widget.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php:27
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): register_elementor_programs_widgets(Object(Elementor\Widgets_Manager))
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(146): do_action('elementor/widge...', Object(Elementor\Widgets_Manager))
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(345): Elementor\Widgets_Manager->init_widgets()
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\document.php(1172): Elementor\Widgets_Manager->get_widget_types('text-editor')
+#6 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\document.php(1123): Elementor\Core\Base\Document->convert_to_elementor()
+#7 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\container-converter\module.php(138): Elementor\Core\Base\Document->get_elements_data()
+#8 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\container-converter\module.php(105): Elementor\Modules\ContainerConverter\Module->page_contains_sections(Object(Elementor\Core\DocumentTypes\Page))
+#9 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\container-converter\module.php(167): Elementor\Modules\ContainerConverter\Module->add_page_convert_button(Object(Elementor\Core\DocumentTypes\Page))
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Elementor\Modules\ContainerConverter\Module->Elementor\Modules\ContainerConverter\{closure}(Object(Elementor\Core\DocumentTypes\Page))
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\document.php(786): do_action('elementor/docum...', Object(Elementor\Core\DocumentTypes\Page))
+#14 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\document-types\page-base.php(70): Elementor\Core\Base\Document->register_controls()
+#15 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(2427): Elementor\Core\DocumentTypes\PageBase->register_controls()
+#16 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(569): Elementor\Controls_Stack->init_controls()
+#17 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(314): Elementor\Controls_Stack->get_stack()
+#18 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\settings\page\model.php(176): Elementor\Controls_Stack->get_controls()
+#19 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(2427): Elementor\Core\Settings\Page\Model->register_controls()
+#20 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(569): Elementor\Controls_Stack->init_controls()
+#21 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(844): Elementor\Controls_Stack->get_stack()
+#22 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\settings\manager.php(151): Elementor\Controls_Stack->get_tabs_controls()
+#23 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\common\editor-common-scripts-settings.php(26): Elementor\Core\Settings\Manager::get_settings_managers_config()
+#24 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\v2\editor-v2-loader.php(153): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#25 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\editor.php(364): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->enqueue_scripts()
+#26 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#27 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#28 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#29 C:\xampp\htdocs\wordpress\wp-includes\script-loader.php(2272): do_action('wp_enqueue_scri...')
+#30 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): wp_enqueue_scripts('')
+#31 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#32 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#33 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3064): do_action('wp_head')
+#34 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\editor-templates\editor-wrapper.php(31): wp_head()
+#35 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\loader\v2\editor-v2-loader.php(203): include('C:\\xampp\\htdocs...')
+#36 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\editor\editor.php(169): Elementor\Core\Editor\Loader\V2\Editor_V2_Loader->print_root_template()
+#37 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#38 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#39 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#40 C:\xampp\htdocs\wordpress\wp-admin\admin.php(419): do_action('admin_action_el...')
+#41 C:\xampp\htdocs\wordpress\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#42 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\saber-elementor-widget\saber-elementor-widget.php on line 27
+[06-Feb-2025 14:13:37 UTC] Automatic updates starting...
+[06-Feb-2025 14:13:38 UTC]   Automatic plugin updates starting...
+[06-Feb-2025 14:13:38 UTC]   Automatic plugin updates complete.
+[06-Feb-2025 14:13:39 UTC] Automatic updates complete.
